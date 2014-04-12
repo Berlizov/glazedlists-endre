@@ -1,0 +1,5 @@
+# The ant-build
+target
+# .. the "external jar-cache"
+extensions/*/lib
+tools
